@@ -29,7 +29,7 @@ To build the image, simply go to the `app` directory and type in
 
 ```docker build -t flask-app ./app```
 
-## Apply Via Helm
+## Deployment Via Helm
 
 Install everything else via helm! Helm will install
 
