@@ -77,7 +77,7 @@ And this should show up
 > If there are issues with connections, this may be required as a minikube command `minikube start --cni=flannel`
 
 
-### For Use
+## Application Commands
 
 Take note of the `URL`. Make sure you have the right one from when starting up minikube service (or whichever cluster you are using)
 
