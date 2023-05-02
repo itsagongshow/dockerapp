@@ -98,7 +98,7 @@ Command
 Output
 ```[[1,"random","r@r.com","random"]]```
 
-### Get Specific User
+#### Get Specific User
 
 Command
 ```curl http://192.168.49.2:31184/user/1```
@@ -106,7 +106,7 @@ Command
 Output
 ```[1,"random","r@r.com","random"]```
 
-### Update User
+#### Update User
 
 Command
 ```curl -H "Content-Type: application/json" -d '{"name": "no_longer_random", "email": "r@r.com", "pwd": "random", "user_id":"1"}' http://192.168.49.2:31184/update```
