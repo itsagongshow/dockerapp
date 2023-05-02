@@ -2,9 +2,9 @@
 
 ## Requirements
 
-Docker
-Minikube
-Kubectl
+- Docker
+- Minikube (or a cloud hosted cluster)
+- Kubectl
 
 ## Notes
 
