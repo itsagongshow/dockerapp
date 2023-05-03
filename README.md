@@ -5,6 +5,7 @@
 - Docker
 - Minikube (or a cloud hosted cluster)
 - Kubectl
+- Helm
 
 ## Notes
 
